@@ -1,0 +1,18 @@
+body {
+    font-size: 20px;
+    line-height: 100px;
+    font-family: "Times", sans-serif;
+    color: #4314db;
+}
+
+.container {
+    margin-top: 50%;
+    padding: 20px;
+    position: relative;
+    width: 800px;
+    height: 100px;
+}
+
+button {
+    margin-left: 18%;
+}
